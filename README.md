@@ -27,5 +27,5 @@ If y represents the dependent variable and x the independent variable, this rela
 ![exp3](https://github.com/kancharlaNarmadha/Correlation_Regression/assets/119559316/71afc7bd-661e-44de-80c9-4600052aafec)
 
 # Result
-
+The correlatiom and regression for data analysis of object from feeder using probability distribution are calculated
 
